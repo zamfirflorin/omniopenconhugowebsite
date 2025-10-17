@@ -1,0 +1,19 @@
+baseURL: "https://zamfirflorin.github.io/omniopenconhugowebsite/"
+languageCode: "en-us"
+title: "FlorinZamfir"
+theme: "PaperMod"
+
+params:
+  socialIcons:
+    - name: GitHub
+      url: https://github.com/username
+    - name: YouTube
+      url: https://www.youtube.com/@username
+    - name: LinkedIn
+      url: https://linkedin.com/in/username
+
+  profileMode:
+    enabled: true
+    title: Florin Zamfir
+    subtitle: Welcome to my blog!
+    imageUrl: https://www.instagram.com/p/CtE2GpLIt5OT9c-PNAcGeMQPboxbhLuVjSGEH80/
