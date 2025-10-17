@@ -17,3 +17,8 @@ params:
     title: Florin Zamfir
     subtitle: Welcome to my blog!
     imageUrl: https://www.instagram.com/p/CtE2GpLIt5OT9c-PNAcGeMQPboxbhLuVjSGEH80/
+
+        # --- Add this under profileMode ---
+    buttons:
+      - name: Posts
+        url: "posts"
